@@ -11,7 +11,7 @@ highlighter: pygments
 title : 17 WORKS!
 tagline: Making for a better life
 author :
-  name : Victor Guo
+  name : 17 WORKS!
   email : guoweichao@mail.com
   github : weichaoguo
   twitter : weichaoguo
@@ -100,7 +100,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-51537950-2'
     getclicky :
       site_id : 
     mixpanel :
